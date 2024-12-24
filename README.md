@@ -1,4 +1,4 @@
-# AI-Powered Plant Disease Detection & Fertilizer Recommendation System  
+# 🌱 AI-Powered Plant Disease Detection & Fertilizer Recommendation System  
 
 This repository presents an AI-driven solution for plant disease detection and fertilizer recommendations. The project leverages CNN-based image classification and a rule-based recommendation module for accurate and efficient predictions. The system is built with a user-friendly Flask GUI for real-time predictions and seamless deployment.  
 
