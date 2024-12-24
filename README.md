@@ -30,8 +30,7 @@ This repository presents an AI-driven solution for plant disease detection and f
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/plant-disease-detection.git  
-   cd plant-disease-detection  
+   git clone https://github.com/MuhammadEhsan02/AI-Powered-Plant-Disease-Detection-and-Fertilizer-Recommendation-System.git  
    ```  
 
 2. **Install Dependencies**  
@@ -51,8 +50,8 @@ This repository presents an AI-driven solution for plant disease detection and f
 
 ## **Links**  
 
-- **Dataset**: [Download Here](https://drive.google.com/your-dataset-link)  
-- **Demo Video**: [Watch Live](https://drive.google.com/your-demo-video-link)  
+- **Dataset**: [Download Here](https://drive.google.com/)  
+- **Demo Video**: [Watch Live](https://drive.google.com/)  
 
 ---  
 
