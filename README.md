@@ -1,4 +1,4 @@
-# 🌱 AI-Powered Plant Disease Detection & Fertilizer Recommendation System  
+# AI-Powered Plant Disease Detection & Fertilizer Recommendation System  
 
 This repository presents an AI-driven solution for plant disease detection and fertilizer recommendations. The project leverages CNN-based image classification and a rule-based recommendation module for accurate and efficient predictions. The system is built with a user-friendly Flask GUI for real-time predictions and seamless deployment.  
 
@@ -50,8 +50,8 @@ This repository presents an AI-driven solution for plant disease detection and f
 
 ## **Links**  
 
-- **Dataset**: [Download Here](https://drive.google.com/)  
-- **Demo Video**: [Watch Live](https://drive.google.com/)  
+- **Dataset**: [Download Here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)  
+- **Demo Video**: [Watch Live](https://drive.google.com/drive/folders/14UMt1qqau-qmToE9nMpYzDGki9hEpL_A?usp=sharing)  
 
 ---  
 
@@ -82,7 +82,7 @@ This repository presents an AI-driven solution for plant disease detection and f
 
 ## **Contact**  
 For queries or feedback, feel free to reach out:  
-- **Linkedin**: [Muhammad Ehsan](#)  
+- **Linkedin**: [Muhammad Ehsan](https://ae.linkedin.com/in/muhammad--ehsan)  
 
 ---  
 
