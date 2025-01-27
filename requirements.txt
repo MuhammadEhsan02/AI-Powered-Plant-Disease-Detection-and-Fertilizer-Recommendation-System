@@ -1,1 +1,11 @@
-
+flask
+numpy
+pandas
+tensorflow
+scikit-learn
+opencv-python
+matplotlib
+seaborn
+Pillow
+requests
+gunicorn
