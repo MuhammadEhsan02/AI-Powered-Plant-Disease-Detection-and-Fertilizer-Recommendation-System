@@ -20,7 +20,7 @@ This repository presents an AI-driven solution for plant disease detection and f
 - **CNN**: Pre-trained model for plant disease detection.  
 - **Templates**: HTML files for rendering the web interface.  
 - **Static**: Folder to store images uploaded for predictions.  
-- **Model File**: Saved model used for inference. [Download Here](https://www.kaggle.com/models/muhammadehsan02/plant_disease_model/)
+- **Model File**: Saved model used for inference. [{Download Here}](https://www.kaggle.com/models/muhammadehsan02/plant_disease_model/)
 - **Supplementary Files**: Additional disease and fertilizer information.  
 - **Demo Video**: A live demonstration of the system in action.  
 
