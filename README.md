@@ -50,7 +50,7 @@ This repository presents an AI-driven solution for plant disease detection and f
 
 ## **Links**  
 
-- **Dataset**: [Download Here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)  
+- **Dataset**: [Download Here](https://www.kaggle.com/datasets/)  
 - **Demo Video**: [Watch Live](https://drive.google.com/drive/folders/14UMt1qqau-qmToE9nMpYzDGki9hEpL_A?usp=sharing)  
 
 ---  
@@ -83,8 +83,4 @@ This repository presents an AI-driven solution for plant disease detection and f
 ## **Contact**  
 For queries or feedback, feel free to reach out:  
 - **Linkedin**: [Muhammad Ehsan](https://ae.linkedin.com/in/muhammad--ehsan)  
-
----  
-
-I hope this project contributes to efficient and accessible agricultural practices! 🌾  
 
